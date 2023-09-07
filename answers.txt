@@ -1,0 +1,1 @@
+A remote repository is a central online repository that allows a team to collaborate on a codebase. It shows everyone's changes over time and has a history just like local repositories.
