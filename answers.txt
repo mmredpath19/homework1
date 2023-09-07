@@ -1,1 +1,3 @@
 Merging and rebasing both allow you to incorporate changes from one branch to another. However, merging creates a new merge commit that ties together the two branhces histories. It's the safer option but has quite extensive history. Rebasing moves the one branch to the tip of the other branch but rewrites the history instead of creating a merge commit. This creates a cleaner, linear history. 
+
+A remote repository is a central online repository that allows a team to collaborate on a codebase. It shows everyone's changes over time and has a history just like local repositories.
